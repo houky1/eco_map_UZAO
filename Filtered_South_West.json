@@ -1,0 +1,188 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": []
+            },
+            "properties": {
+                "hood": "Академический",
+                "district": "ЮЗАО",
+                "stations": [
+                    "Академическая",
+                    "Профсоюзная"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": []
+            },
+            "properties": {
+                "hood": "Гагаринский",
+                "district": "ЮЗАО",
+                "stations": [
+                    "Ленинский проспект",
+                    "Университет",
+                    "Воробьёвы горы"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": []
+            },
+            "properties": {
+                "hood": "Зюзино",
+                "district": "ЮЗАО",
+                "stations": [
+                    "Нахимовский проспект",
+                    "Севастопольская",
+                    "Каховская",
+                    "Чертановская"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": []
+            },
+            "properties": {
+                "hood": "Коньково",
+                "district": "ЮЗАО",
+                "stations": [
+                    "Калужская",
+                    "Беляево",
+                    "Коньково"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": []
+            },
+            "properties": {
+                "hood": "Котловка",
+                "district": "ЮЗАО",
+                "stations": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": []
+            },
+            "properties": {
+                "hood": "Ломоносовский",
+                "district": "ЮЗАО",
+                "stations": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": []
+            },
+            "properties": {
+                "hood": "Обручевский",
+                "district": "ЮЗАО",
+                "stations": [
+                    "Новые Черёмушки",
+                    "Калужская"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": []
+            },
+            "properties": {
+                "hood": "Северное Бутово",
+                "district": "ЮЗАО",
+                "stations": [
+                    "Бульвар Дмитрия Донского",
+                    "Улица Старокачаловская"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": []
+            },
+            "properties": {
+                "hood": "Тёплый Стан",
+                "district": "ЮЗАО",
+                "stations": [
+                    "Коньково",
+                    "Тёплый стан"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": []
+            },
+            "properties": {
+                "hood": "Черёмушки",
+                "district": "ЮЗАО",
+                "stations": [
+                    "Профсоюзная",
+                    "Новые Черёмушки",
+                    "Калужская"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": []
+            },
+            "properties": {
+                "hood": "Южное Бутово",
+                "district": "ЮЗАО",
+                "stations": [
+                    "Бунинская аллея",
+                    "Улица Горчакова",
+                    "Бульвар Адмирала Ушакова",
+                    "Улица Скобелевская"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": []
+            },
+            "properties": {
+                "hood": "Ясенево",
+                "district": "ЮЗАО",
+                "stations": [
+                    "Тёплый стан",
+                    "Ясенево",
+                    "Новоясеневская",
+                    "Битцевский парк"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.536931,
+                    55.649728
+                ]
+            },
+            "properties": {
+                "title": "Станция мониторинга",
+                "description": "улица Бутлерова, 15"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.58385,
+                    55.680032
+                ]
+            },
+            "properties": {
+                "title": "Станция мониторинга",
+                "description": "Большая Черёмушкинская улица, 30к1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.579403,
+                    55.535789
+                ]
+            },
+            "properties": {
+                "title": "Станция мониторинга",
+                "description": "2-я Мелитопольская улица, 19"
+            }
+        }
+    ]
+}

@@ -1,0 +1,509 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.573724,
+          55.703604
+        ]
+      },
+      "properties": {
+        "title": "Магистраль",
+        "description": "Магистраль"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.546213,
+          55.692895
+        ]
+      },
+      "properties": {
+        "title": "Жилой двор",
+        "description": "Жилой двор"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.556855,
+          55.702834
+        ]
+      },
+      "properties": {
+        "title": "Парк",
+        "description": "Парк"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.571208,
+          55.68527
+        ]
+      },
+      "properties": {
+        "title": "Магистраль",
+        "description": "Магистраль"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.578238,
+          55.687147
+        ]
+      },
+      "properties": {
+        "title": "Жилой двор",
+        "description": "Жилой двор"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.569751,
+          55.692126
+        ]
+      },
+      "properties": {
+        "title": "Парк",
+        "description": "Парк"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.602037,
+          55.677883
+        ]
+      },
+      "properties": {
+        "title": "Магистраль",
+        "description": "Магистраль"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.598741,
+          55.678995
+        ]
+      },
+      "properties": {
+        "title": "Жилой двор",
+        "description": "Жилой двор"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.596294,
+          55.669676
+        ]
+      },
+      "properties": {
+        "title": "Парк",
+        "description": "Парк"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.537094,
+          55.683273
+        ]
+      },
+      "properties": {
+        "title": "Магистраль",
+        "description": "Магистраль"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.54301,
+          55.681823
+        ]
+      },
+      "properties": {
+        "title": "Жилой двор",
+        "description": "Жилой двор"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.530345,
+          55.684228
+        ]
+      },
+      "properties": {
+        "title": "Парк",
+        "description": "Парк"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.560804,
+          55.660373
+        ]
+      },
+      "properties": {
+        "title": "Магистраль",
+        "description": "Магистраль"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5673,
+          55.660617
+        ]
+      },
+      "properties": {
+        "title": "Жилой двор",
+        "description": "Жилой двор"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.556267,
+          55.660021
+        ]
+      },
+      "properties": {
+        "title": "Парк",
+        "description": "Парк"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.592599,
+          55.651856
+        ]
+      },
+      "properties": {
+        "title": "Магистраль",
+        "description": "Магистраль"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.591305,
+          55.655532
+        ]
+      },
+      "properties": {
+        "title": "Жилой двор",
+        "description": "Жилой двор"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.585329,
+          55.650246
+        ]
+      },
+      "properties": {
+        "title": "Парк",
+        "description": "Парк"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.519931,
+          55.658074
+        ]
+      },
+      "properties": {
+        "title": "Магистраль",
+        "description": "Магистраль"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.513962,
+          55.662574
+        ]
+      },
+      "properties": {
+        "title": "Жилой двор",
+        "description": "Жилой двор"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.508796,
+          55.656181
+        ]
+      },
+      "properties": {
+        "title": "Парк",
+        "description": "Парк"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.534587,
+          55.651194
+        ]
+      },
+      "properties": {
+        "title": "Магистраль",
+        "description": "Магистраль"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.520745,
+          55.653024
+        ]
+      },
+      "properties": {
+        "title": "Жилой двор",
+        "description": "Жилой двор"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.516494,
+          55.641384
+        ]
+      },
+      "properties": {
+        "title": "Парк",
+        "description": "Парк"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.502494,
+          55.617753
+        ]
+      },
+      "properties": {
+        "title": "Магистраль",
+        "description": "Магистраль"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.511689,
+          55.629923
+        ]
+      },
+      "properties": {
+        "title": "Жилой двор",
+        "description": "Жилой двор"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.49633,
+          55.63063
+        ]
+      },
+      "properties": {
+        "title": "Парк",
+        "description": "Парк"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.539005,
+          55.604983
+        ]
+      },
+      "properties": {
+        "title": "Магистраль",
+        "description": "Магистраль"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.526421,
+          55.606637
+        ]
+      },
+      "properties": {
+        "title": "Жилой двор",
+        "description": "Жилой двор"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.522163,
+          55.617114
+        ]
+      },
+      "properties": {
+        "title": "Парк",
+        "description": "Парк"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.576292,
+          55.569004
+        ]
+      },
+      "properties": {
+        "title": "Магистраль",
+        "description": "Магистраль"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.569188,
+          55.572064
+        ]
+      },
+      "properties": {
+        "title": "Жилой двор",
+        "description": "Жилой двор"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.565758,
+          55.561981
+        ]
+      },
+      "properties": {
+        "title": "Парк",
+        "description": "Парк"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.549315,
+          55.543107
+        ]
+      },
+      "properties": {
+        "title": "Магистраль",
+        "description": "Магистраль"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.545038,
+          55.548915
+        ]
+      },
+      "properties": {
+        "title": "Жилой двор",
+        "description": "Жилой двор"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.527855,
+          55.540242
+        ]
+      },
+      "properties": {
+        "title": "Парк",
+        "description": "Парк"
+      }
+    }
+  ]
+}
